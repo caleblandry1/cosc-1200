@@ -2,8 +2,8 @@
 Name: Caleb Landry
 Course: Cosc 1200
 Date: May 24 2024
-Description: A program that states information about myself and asks for basic user input
- */
+Description:
+*/
 
 package Week2.day1;
 
