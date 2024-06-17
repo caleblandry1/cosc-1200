@@ -12,8 +12,9 @@ public class ArrayExercise {
         reverse(number);
         System.out.println("reversed array: " + arrayToString(number));
 
-        arrayAverage(number);
-        System.out.println("average array: " + arrayAverage(number));
+        double average = arrayAverage(number);
+
+        System.out.println("average array: " + average);
 
 
     }
