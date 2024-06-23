@@ -26,8 +26,7 @@ public class Driver {
         System.out.println(dbvalue);
 
 
-        //Call
-        ice1.isPalandrome()
+
 
 
         //call multiplyNumbers with non-decimal values
